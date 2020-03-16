@@ -68,7 +68,7 @@ body,html {
     border-bottom:2px solid transparent;
 }
 #links a:hover {
-    border-bottom:2px solid #fff;
+    border-bottom:2px solid #EEE8AA;
 }
 #middle {
     width:100%;
