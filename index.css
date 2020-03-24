@@ -214,7 +214,7 @@ body,html {
     background:#fff;
     cursor:pointer;
 }
-.mailto:starsconsultancy@outlook.com {
+a:link {
     font-size:18px;
     color:#fff;
 }
