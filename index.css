@@ -214,10 +214,6 @@ body,html {
     background:#fff;
     cursor:pointer;
 }
-a:link {
-    font-size:18px;
-    color:#fff;
-}
 @media (max-width: 900px){
     #header {
         width:94%;
