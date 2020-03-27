@@ -218,6 +218,7 @@ body,html {
     #header {
         width:94%;
         padding:15% 3%;
+        height:100vh!important;
     }
     #title {
         font-size:30px;
