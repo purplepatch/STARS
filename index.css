@@ -219,6 +219,12 @@ body,html {
         width:94%;
         padding:15% 3%;
     }
+    
+ /* Big Screen */
+@media only screen and (min-device-width: 1920px) {
+// CSS
+    
+}
     /* 
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
