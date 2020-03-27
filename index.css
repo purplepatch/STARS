@@ -219,6 +219,15 @@ body,html {
         width:94%;
         padding:15% 3%;
     }
+@media all and (orientation: landscape) {
+    article {
+        -webkit-column-count : 2;
+        column-count         : 2;
+    }
+    h1 {
+        -webkit-column-span  : all;
+        column-span          : all;
+    }
     #title {
         font-size:30px;
     }
