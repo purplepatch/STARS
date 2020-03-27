@@ -215,12 +215,9 @@ body,html {
     cursor:pointer;
 }
 @media (max-width: 900px){
-    #header
-    .elementor-section-height-full,
-    .elementor-section-height-full > .elementor-container{
+    #header {
         width:94%;
         padding:15% 3%;
-        height:100vh!important;
     }
     #title {
         font-size:30px;
