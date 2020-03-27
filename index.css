@@ -221,6 +221,15 @@ body,html {
     }
 @media all and (orientation: landscape) {
     article {
+        -webkit-column-count : 2;
+        column-count         : 2;
+    }
+    h1 {
+        -webkit-column-span  : all;
+        column-span          : all;
+    }
+ @media all and (orientation: portrait) {
+    article {
         -webkit-column-count : 1;
         column-count         : 1;
     }
