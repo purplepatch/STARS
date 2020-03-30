@@ -44,6 +44,8 @@ body,html {
 .header-img {
     height: 5%;
     width: 9%;
+    -webkit-text-fill-color: transparent;
+    background-size:500% 500% !important;
 }
 #title {
     font-size:40px;
