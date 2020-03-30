@@ -40,6 +40,10 @@ body,html {
 }
 #header div {
     display:block;
+}   
+.header-img {
+    height: 9%;
+    width: 15%;
 }
 #title {
     font-size:40px;
