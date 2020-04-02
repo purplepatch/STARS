@@ -85,7 +85,7 @@ body,html {
     color:white;
     display:flex;
     justify-content:center;
-    flex-direction:row;
+    flex-direction:column;
     transition:1s ease-in-out;
     padding-top:20vh;
 }
@@ -294,6 +294,15 @@ body,html {
   //CSS
   
 }
+ /*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+@media (max-width: 320px)
+{
+   html { font-size:0.1em; }
+}
+    
     #title {
         font-size:30px;
     }
