@@ -41,10 +41,10 @@ body,html {
 #header div {
     display:block;
 }   
-.header-img {
+<!--.header-img {
     float: left;
     height: 5%;
-    width: 9%;
+    width: 9%;-->
 }
 #title {
     font-size:40px;
