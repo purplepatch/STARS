@@ -111,11 +111,11 @@ body,html {
     animation: Gradient 20s ease infinite;
     font-family: 'Comfortaa', cursive;
 }
-#skills {
+#services {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
 }
-#work {
+#about {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
 }
