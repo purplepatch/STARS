@@ -91,7 +91,7 @@ body,html {
 }
 #tagline {
     font-size:40px;
-    width:100%;
+    width:1000px;
     text-align:center;
 }
 #portfolio {
@@ -269,7 +269,7 @@ body,html {
         height:80vh;
         background-size:cover;
     }
-    #tagline {
+   /* #tagline {
         width:100%;
         font-size:30px;
     }
@@ -286,7 +286,7 @@ body,html {
     }
     #contact form textarea {
         width:92%;
-    }
+    }*/
     .btn_social {
         font-size:14px;
         margin:10px;
