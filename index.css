@@ -216,8 +216,22 @@ body,html {
     
 /* @media screen and (max-width: 320px) {
 } */
-@media screen and (max-width: 680px) {
+    
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 480px
+*/
+@media (min-width: 320px) and (max-width: 480px) {
+//CSS 
+}/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+@media (min-width: 481px) and (max-width: 767px) {
+//CSS 
 }
+/* @media screen and (max-width: 680px) {
+}*/
 @media screen and (max-width: 1024px) {
 }    
 /* 
