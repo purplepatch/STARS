@@ -91,10 +91,8 @@ body,html {
 }
 #tagline {
     font-size:40px;
-    width:100%;
-    margin:0px auto 0px auto;
-    whitespace:normal;
-   
+    width:200px;
+    margin:0px auto 0px auto;   
 }
 #portfolio {
     width:80%;
