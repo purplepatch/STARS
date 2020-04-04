@@ -92,9 +92,8 @@ body,html {
 #tagline {
     font-size:40px;
     width:100%;
-    text-align:center;
-    overflow:visible;
- 
+    margin:0px auto 0px auto;
+   
 }
 #portfolio {
     width:80%;
