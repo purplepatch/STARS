@@ -93,7 +93,7 @@ body,html {
     font-size:40px;
     width:100%;
     text-align:center;
-    overflow:default;
+    overflow:hidden;
  
 }
 #portfolio {
