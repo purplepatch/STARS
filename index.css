@@ -96,11 +96,10 @@ body,html {
     font-size:40px;
     text-align:center;
     position: relative;
-    display:inline;
 }
-/*#tagline div {
-    display:inline;
-}*/
+#tagline div {
+    display:block;
+}
 
 #portfolio {
     width:80%;
