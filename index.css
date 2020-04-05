@@ -97,9 +97,9 @@ body,html {
     text-align:center;
     position: relative;
 }
-/*#tagline div {
+#tagline div {
     display:block;
-}*/
+}
 
 #portfolio {
     width:80%;
