@@ -235,9 +235,9 @@ font-size: 16px;
   ##Screen = B/w 481px to 767px
 */
 @media (min-width: 481px) and (max-width: 767px) {
-//CSS 
+font-size: 16px; 
 }
-/* @media screen and (max-width: 680px) {
+/* @media screen and (max-width: 1024px) {
 }*/
 @media screen and (max-width: 1024px) {
 }    
