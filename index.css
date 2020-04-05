@@ -229,7 +229,7 @@ body,html {
   ##Screen = B/w 320px to 480px
 */
 @media (min-width: 320px) and (max-width: 480px) {
-//CSS 
+font-size: 16px;
 }/* 
   ##Device = Low Resolution Tablets, Mobiles (Landscape)
   ##Screen = B/w 481px to 767px
