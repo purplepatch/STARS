@@ -129,6 +129,9 @@ body,html {
 #contact {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
+    color:#fff;
+    background-color: black;
+    background-size:100% auto;
 }
 #portfolio div h2 {
     color:#d9cc3f;
