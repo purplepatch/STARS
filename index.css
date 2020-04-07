@@ -312,7 +312,7 @@ font-size: 16px;
     font-weight:bold;
     color:#fff;
     background-color: black;
-    background-size:100% auto;
+    background-size:inherit;
 }
 #footer a {
     font-size:18px;
