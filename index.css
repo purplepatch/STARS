@@ -130,6 +130,9 @@ body,html {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
 }
+#portfolio div h2 {
+    color:#EEE8AA;
+}
 /* #contact form {
     width:100%;
 } */
