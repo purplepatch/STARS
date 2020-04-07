@@ -307,6 +307,7 @@ font-size: 16px;
     padding:10vh 0px;
     text-align:center;
     font-weight:bold;
+    background-color: black;
 }
 #footer a {
     font-size:18px;
